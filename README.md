@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @immeasurableamit
 - 👀 I’m interested in Laravel Development
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently working Reactjs and Laravel
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me +91 7388272822
 
